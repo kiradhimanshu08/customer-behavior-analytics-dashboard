@@ -71,7 +71,6 @@ Visualizations:
 - Customer demographics influenced purchasing patterns.
 
 ## Dashboard Preview
-
 ![Dashboard Preview](Dashboard.jpg)
 
 ## Business Impact
@@ -82,7 +81,7 @@ This analysis helps identify customer segments, purchasing trends, and category 
 /customer_behavior_analysis.py  
 /customer_behavior_dashboard.pbix  
 /customer_behavior_queries.sql  
-/dashboard_screenshot.png  
+/Dashboard.jpg 
 /README.md  
 
 ## Created By
