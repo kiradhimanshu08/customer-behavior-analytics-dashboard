@@ -72,7 +72,7 @@ Visualizations:
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.jpg)
+![Dashboard Preview](Dashboard.jpg)
 
 ## Business Impact
 This analysis helps identify customer segments, purchasing trends, and category performance, supporting data-driven business decisions.
